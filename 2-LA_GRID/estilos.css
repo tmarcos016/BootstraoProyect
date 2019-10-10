@@ -1,0 +1,19 @@
+ header{
+     background: #116877;
+     color: #fff
+ }
+ .main{
+     background: rgb(192, 194, 191)
+ }
+ .color{
+     background: rgb(255, 0, 0);
+     color: rgb(255, 255, 255);
+ }
+ aside{
+     background: rgb(16, 165, 2);
+     color: rgb(255, 255, 255);
+ }
+ footer{
+     background: rgb(30, 137, 199);
+     color: rgb(255, 255, 255);
+ }
